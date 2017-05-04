@@ -6,5 +6,5 @@ Inspired by a story which appeared on [The Guardian](https://www.theguardian.com
 
 Hero for Hire (HfH) allows you to find heroes (street acttors) whom you can hire for photo-moments or parties.
 
-You can also let the surf your couch for the night, protecting your home from the forces of evil!
+You can also let them surf your couch for the night, protecting your home from the forces of evil!
 
